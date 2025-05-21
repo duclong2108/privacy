@@ -1,0 +1,86 @@
+# PRIVACY POLICY
+
+**Last Updated: May 21, 2025**
+
+## INTRODUCTION
+
+Welcome to the Privacy Policy of Mirror Words. We are committed to protecting your privacy and handling your personal data responsibly.
+
+This policy describes how we collect, use, disclose, and protect your information when you use our application and services. Please read this policy carefully.
+
+## INFORMATION WE COLLECT
+
+### Information You Provide to Us
+
+- **Account Information**: Name, email address, password, and other profile information when you register.
+- **User Content**: Any data you create, upload, or share through our app.
+- **Communications**: Chat content, messages, or feedback when you contact us.
+
+### Information We Collect Automatically
+
+- **Device Data**: Device type, operating system, device identifiers, language settings.
+- **Usage Data**: Information about how you interact with the app, time and frequency of use.
+- **Location Data**: General location based on IP address (we don't track precise location unless necessary).
+- **Cookies and Tracking Technologies**: Used to improve user experience and analyze performance.
+
+## HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+
+- Provide, maintain, and improve our app and services.
+- Process and complete transactions.
+- Send technical notices, updates, security alerts, and support messages.
+- Respond to your requests, questions, and concerns.
+- Monitor and analyze trends, usage, and activities on our app.
+- Prevent fraudulent, illegal, or harmful activities.
+- Personalize your experience.
+
+## SHARING AND DISCLOSURE OF INFORMATION
+
+We do not sell your personal information. We may share information in the following circumstances:
+
+- **Service Providers**: With third parties that help us deliver our services (e.g., cloud storage, data analytics).
+- **Legal Requirements**: When required by law or to protect rights, property, or safety.
+- **Business Transactions**: In the event of a merger, acquisition, or sale of assets.
+- **With Your Consent**: In other cases when we have your explicit consent.
+
+## CHILDREN'S PRIVACY
+
+Our App is not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us. If we discover that we have collected personal information from children under 13 without verification of parental consent, we will take steps to delete that information from our servers.
+
+## YOUR PRIVACY RIGHTS
+
+Depending on your region, you may have the following rights regarding your personal data:
+
+- The right to access and view your information.
+- The right to correct or update inaccurate information.
+- The right to delete your information in certain circumstances.
+- The right to restrict or object to the processing of your data.
+- The right to data portability.
+- The right to withdraw previously provided consent.
+
+To exercise any of these rights, please contact us using the information below.
+
+## DATA SECURITY
+
+We implement reasonable security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of internet transmission is 100% secure.
+
+## DATA RETENTION
+
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required or permitted by law.
+
+## CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting a notice on our app or by sending you a direct notification. We encourage you to review this Policy periodically.
+
+## CONTACT US
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or how we handle your personal data, please contact us at:
+
+- Email: duclong21082000@gmail.com
+- Address: 29/20 Nguyễn Hồng Quân, Thượng Lý, Hồng Bàng, Hải Phòng, Việt Nam
+- Phone: 0989068867
+
+## INTERNATIONAL DATA PROCESSING
+
+We may process your information in countries other than where our servers or service providers are located. By using our App, you consent to the transfer of your information outside of your country.
