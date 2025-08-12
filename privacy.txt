@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-**Last Updated: May 21, 2025**
+**Last Updated: August 12, 2025**
 
 ## INTRODUCTION
 
@@ -82,5 +82,6 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 - Phone: 0989068867
 
 ## INTERNATIONAL DATA PROCESSING
+
 
 We may process your information in countries other than where our servers or service providers are located. By using our App, you consent to the transfer of your information outside of your country.
