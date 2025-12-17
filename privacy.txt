@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-Welcome to the Privacy Policy of Bubble Rage. We are committed to protecting your privacy and handling your personal data responsibly.
+Welcome to the Privacy Policy of Color Alchemy. We are committed to protecting your privacy and handling your personal data responsibly.
 
 This policy describes how we collect, use, disclose, and protect your information when you use our application and services. Please read this policy carefully.
 
@@ -85,5 +85,6 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 
 We may process your information in countries other than where our servers or service providers are located. By using our App, you consent to the transfer of your information outside of your country.
+
 
 
